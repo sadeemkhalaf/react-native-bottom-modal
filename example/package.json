@@ -20,7 +20,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
     "react-native-bottom-modal": "^0.5.3",
     "react-native-gesture-handler": "~1.5.0",
-    "react-native-paper": "^3.6.0",
+    "react-native-paper": "^3.12.0",
     "react-native-web": "^0.11.7",
     "react-spring": "^8.0.27",
     "styled-components": "^5.0.1"
